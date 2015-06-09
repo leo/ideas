@@ -8,4 +8,8 @@ Marco Arment [commented][1] this scenario in a pretty neat way:
 
 We need to do something about this. What about a node module that only outputs the functions that are called within the code and leaves the remaining ones out when using multiple libraries? We could also combine muiltiple occurrences of the same code into functions. It should of course also directly replace the instances with the suitable function-call.
 
+Take a look at this [post][2] and it's comments, if you want to know more about this thought. Also: Huge thanks to [Joshua Pack][3], who helped shaping the idea further in the comments.
+
 [1]: http://www.marco.org/2015/05/15/tools-are-the-problem
+[2]: http://leo.github.io/blog/snippets-are-the-future/
+[3]: https://twitter.com/MrJoshuaPack
