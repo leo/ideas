@@ -13,3 +13,7 @@ Take a look at this [post](http://leo.im/notes/snippets-are-the-future/) and it'
 # Safari extension: Form filler
 
 There should be an extension for safari (for devs) that autofills forms with a click on a button (so that they can easily be tested).
+
+# Slack addon: Kicker
+
+There should be a Slack addon that kicks out people if they haven't been active for a certain time. This keeps the list of people that are in a certain team clean.
